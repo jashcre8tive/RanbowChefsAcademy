@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5mYYXAHE4rz_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">RainbowChefs_POC_JAYSON</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="RainbowChefs_POC_JAYSON_ORG">
+    <organization identifier="RainbowChefs_POC_JAYSON_ORG">
+      <title>RainbowChefs_POC_JAYSON</title>
+      <item identifier="RainbowChefs_POC_v1_SCO" isvisible="true" identifierref="__5mYYXAHE4rz_course_id_RES">
+        <title>RainbowChefs_POC_JAYSON</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5mYYXAHE4rz_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6QrfYF05TBO_80_DX1586_DY1586_CX1188_CY412.png" />
+      <file href="mobile/64rey16vzjx_80_DX3062_DY3062_CX2048_CY1011.png" />
+      <file href="mobile/5xrRzf5LgOo_80_DX2016_DY2016_CX1008_CY576.jpg" />
+      <file href="mobile/6QrfYF05TBO_80_DX1584_DY1584_CX436_CY151.png" />
+      <file href="mobile/5ckab1v6T4m_80_P_221_0_1603_1295_DX3028_DY3028_CX1603_CY1295.jpg" />
+      <file href="mobile/6ROqdoJhh1J_80_P_0_0_2571_2086_DX570_DY570_CX388_CY315.png" />
+      <file href="mobile/6ROqdoJhh1J_80_RFF9F9F_P_0_0_2571_2086_DX570_DY570_CX388_CY315.png" />
+      <file href="mobile/63FViKa4n7x_80_DX510_DY510_CX382_CY315.png" />
+      <file href="mobile/63FViKa4n7x_80_RFF9F9F_DX510_DY510_CX382_CY315.png" />
+      <file href="mobile/5nFogA01N1D_80_P_143_0_2248_1776_DX640_DY640_CX399_CY315.png" />
+      <file href="mobile/5nFogA01N1D_80_RFF9F9F_P_143_0_2248_1776_DX640_DY640_CX399_CY315.png" />
+      <file href="mobile/5hPiibcCuZk_80_P_948_0_972_1080_DX2962_DY2962_CX972_CY1080.jpg" />
+      <file href="mobile/6QrfYF05TBO_80_DX1584_DY1584_CX259_CY90.png" />
+      <file href="mobile/6HqKRoaRu19_80_P_325_0_1510_1280_DX2154_DY2154_CX1271_CY1077.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5aNczPVF389.png" />
+      <file href="mobile/txt__default_5p0oKSNw6ZP.png" />
+      <file href="mobile/txt__default_5qSyTFmXWu4.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5euT0yTtLqf.js" />
+      <file href="html5/data/js/5hdgA6MzuBP.js" />
+      <file href="html5/data/js/5sEF5Yf1dIn.js" />
+      <file href="html5/data/js/6Ba0wqEqY2B.js" />
+      <file href="html5/data/js/6iwTt58YSZo.js" />
+      <file href="html5/data/js/6VMc9gB6CYe.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
